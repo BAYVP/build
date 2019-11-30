@@ -6,10 +6,16 @@ cd build
 
 kill -9 tmux
 
+# web app
 cd $HOME/build/SCS/scs-express-app
 
 npm start
 
+#strapi
 cd $HOME/myProject
 
 npm start
+
+#events check
+curl https://scsapi.shreemaycommunity.org/events
+
