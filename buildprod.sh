@@ -9,3 +9,7 @@ kill -9 tmux
 cd $HOME/build/SCS/scs-express-app
 
 npm start
+
+cd $HOME/myProject
+
+npm start
