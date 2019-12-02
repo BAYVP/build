@@ -1,5 +1,5 @@
 ssh -i id_rsa_scs scslin@40.71.213.26
-ssh -i id_rsa_scs scslin@4scslin
+ssh -i id_rsa_scs scslin@scslin
 
 cd build
 
